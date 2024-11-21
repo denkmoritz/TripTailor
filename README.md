@@ -15,7 +15,8 @@
 
 ## Installation
 
-1. Clone the repository:
+1. Create desired directory for repository
+2. Clone the repository:
    ```bash
-   git clone https://github.com/denkmoritz/TripTailor.git
-   cd TripTailor
+   git clone https://github.com/denkmoritz/triptailor.git
+3. Download [OpenStreetMap Raw Data for Münster](https://opendata.stadt-muenster.de/dataset/openstreetmaps-rohdaten-f%C3%BCr-m%C3%BCnster)
