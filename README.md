@@ -20,5 +20,5 @@
 2. Clone the repository:
    ```bash
    git clone https://github.com/denkmoritz/triptailor.git
-3. Download [OpenStreetMap Raw Data for Münster](https://opendata.stadt-muenster.de/dataset/openstreetmaps-rohdaten-f%C3%BCr-m%C3%BCnster)
+3. Download [OpenStreetMap Raw Data for Münster](https://opendata.stadt-muenster.de/dataset/openstreetmaps-rohdaten-f%C3%BCr-m%C3%BCnster) (PBF-Format)
 4. Add the dataset to the directory `data_acquisition`
